@@ -17,7 +17,7 @@ body.login div#login {
 body.login div#login h1 {}
 
 body.login div#login h1 a {
-    background-image: url("/wp-content/plugins/darklogin/img/Wordpress-logo.png");
+    background-image: url("../img/Wordpress-logo.png");
     height: 119px;
     background-size: contain;
     width: 359px;
