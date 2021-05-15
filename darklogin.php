@@ -17,7 +17,7 @@
 defined('ABSPATH') || die('No direct script access allowed!');
 
 // page config
-include('config/page-config.php');
+//include('config/page-config.php');
 
 // custom login for theme
 function custom_login_dark()
